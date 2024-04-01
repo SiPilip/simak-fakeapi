@@ -4,9 +4,9 @@
       "id": "09021182227014",
       "namaMahasiswa": "Dian Maheru",
       "tanggalLahir": "19-10-2004",
-      "ips": "19-10-2004",
-      "ipk": "19-10-2004",
-      "tahunLamaStudi": "3.5",
+      "ips": 3.8,
+      "ipk": 3.9,
+      "tahunLamaStudi": 3.5,
       "transkripNilai": [
         {
           "id": 1,
