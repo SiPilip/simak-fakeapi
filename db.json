@@ -1,16 +1,35 @@
 {
-  "posts":[
+  "mahasiswa": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "09021182227014",
+      "namaMahasiswa": "Dian Maheru",
+      "tanggalLahir": "19-10-2004",
+      "ips": "19-10-2004",
+      "ipk": "19-10-2004",
+      "tahunLamaStudi": "3.5",
+      "transkripNilai": [
+        {
+          "id": 1,
+          "kode": "UN100",
+          "mataKuliah": "Analisa Mata Julian Berbasis Objek",
+          "jumlahSKS": 3,
+          "HM": "A",
+          "AM": 1,
+          "K": 1,
+          "M": 1
+        }
+      ],
+      "USEPT": [
+        {
+          "id": 1,
+          "tanggalTest": "12-10-2004",
+          "hasilListening": 89,
+          "hasilStructure": 88,
+          "hasilReading": 88,
+          "hasilSkor": 560,
+          "syaratLulusPeriode": 600
+        }
+      ]
     }
   ]
 }
